@@ -1,0 +1,37 @@
+_repo: O-credito-agricola-em-Portugal_24412
+_version: 0.1.0
+alternative_title: O Crédito Agrícola em Portugal
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lima, Jaime de Magalhães
+    aliases:
+    - Lima, Jayme de Magalhães
+    - De Magalhães Lima, Jaime
+    - Lima, Jaime de Magalhaes
+    - Magalhães Lima, Jaime de
+    birthdate: 1859
+    deathdate: 1936
+    gutenberg_agent_id: '9720'
+    url: http://www.gutenberg.org/2009/agents/9720
+    wikipedia: http://pt.wikipedia.org/wiki/Jaime_de_magalh%C3%A3es_lima
+description: ''
+gutenberg_issued: '2008-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24412'
+language: pt
+language_note: This ebooks uses a 19th century spelling
+production_note: Produced by Pedro Saborano (produced from scanned images from BibRia)
+publication_note: "Lisboa:\r\nTyp. Estevão Nunes & Filhos\r\nR. d'Assumação, 18 a\
+  \ 24\r\n1899"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Agricultural credit -- Portugal'
+- !lcc 'HG'
+title: O credito agricola em Portugal
+url: http://www.gutenberg.org/ebooks/24412
